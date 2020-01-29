@@ -6,4 +6,5 @@ Usando o dataset <a href="https://github.com/glitchman23/challenges/raw/master/o
 * Qual o horário mais difícil para avistarmos um OVNI em forma de Charuto?
 
 ## Ajuda
-Para ajudar no processo existe um caderno de Jupyter que já te dá metade do camihno mas responde outras perguntas, você pode usar como inspiração :D
+Para ajudar no processo existe um caderno de Jupyter <a href="https://github.com/glitchman23/challenges/blob/master/ovnis_hunter/ovnis_hunter.ipynb">ovnis_hunter</a> que já te dá metade do caminho mas responde outras perguntas.<br>
+Você pode usar como inspiração :D
